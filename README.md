@@ -1,6 +1,6 @@
 # Elevator Management
 
-Simple ElevatorManager that takes input of queue of elevator call requests and parses it into efficient and intuitive queues that are handled by n individual elevators. Scalable for number of floors and any number of elevators.
+Simple ElevatorManager that takes input of queue of elevator call requests and parses it into efficient priority queues that are handled by n individual elevators. Scalable for number of floors and any number of elevators.
 
 
 
